@@ -77,9 +77,9 @@ Explanation: The two lists do not intersect, so return null.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 124 ms (beats 9.80%)  
-**Memory:** 38 MB (beats 76.81%)  
-**Submitted:** 2026-10-24T03:41:14.431Z  
+**Runtime:** 114 ms (beats 50.55%)  
+**Memory:** 38.4 MB (beats 15.27%)  
+**Submitted:** 2026-10-24T03:41:34.683Z  
 
 ```py
 class Solution:
